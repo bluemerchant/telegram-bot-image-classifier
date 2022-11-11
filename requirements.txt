@@ -1,0 +1,4 @@
+python-telegram-bot==13.14
+opencv-python==4.6.0.66
+numpy==1.21.5
+tensorflow==2.10.0
